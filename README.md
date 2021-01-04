@@ -1,7 +1,7 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Python Data Structures: Trees
+This is the repository for the LinkedIn Learning course `Python Data Structures: Trees`. The full course is available from [LinkedIn Learning][https://www.linkedin.com/learning/python-data-structures-trees/].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![Python Data Structures: Trees][https://www.linkedin.com/learning/python-data-structures-trees/] 
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
@@ -18,8 +18,7 @@ Some branches will have a beginning and an end state. These are marked with the 
 3. [Course-specific instructions]
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
+[https://www.linkedin.com/learning/python-data-structures-trees/]: https://www.linkedin.com/learning/python-data-structures-trees/
 [lil-thumbnail-url]: http://
 
