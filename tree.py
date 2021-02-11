@@ -4,6 +4,27 @@ class Node:
         self.left = None
         self.right = None
 
+    def traversePreorder(self):
+        print(self.data)
+        if self.left:
+            self.left.traversePreorder()
+        if self.right:
+            self.right.traversePreorder()
+
+    def traverseInorder(self):
+        if self.left:
+            self.left.traverseInorder()
+        print(self.data)
+        if self.right:
+            self.right.traverseInorder()
+
+    def traversePostorder(self):
+        if self.left:
+            self.left.traversePostorder()
+        if self.right:
+            self.right.traversePostorder()
+        print(self.data)
+        
     def search(self, target):
         if self.data == target:
             print("Found it!")
